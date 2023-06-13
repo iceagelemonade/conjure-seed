@@ -1,0 +1,5 @@
+node_modules/
+seed-files-old-test/
+seed.sql
+users_seed.sql
+scratch.js
